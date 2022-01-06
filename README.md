@@ -1,6 +1,8 @@
 ### Ola eu meu nome é Bruno Chiga👋
 
--Tecnico em Desenvolvimento de Sistemas
+-Tecnico em Desenvolvimento de Sistemas <br>
+-Futuro Engenheiro de Software <br>
+-Jogador de CSGO e Valorant
 
 <div align="center">
   <a href="https://github.com/shyga362">

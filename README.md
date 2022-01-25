@@ -3,7 +3,7 @@
 -Tecnico em Desenvolvimento de Sistemas <br>
 -Futuro Engenheiro de Software <br>
 -Jogador de CSGO e Valorant <br>
--Discord: shyg4#5785
+-Discord: Shyg4#5785
 
 <div align="center">
   <a href="https://github.com/shyga362">
